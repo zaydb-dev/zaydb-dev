@@ -2,9 +2,9 @@
 
 I'm Zayd, a Computer Systems Engineering student @ Carleton University.<br>
 
--I'm currently learning: C, Verilog, FPGA programming<br>
--Currently working on: Microcontroller projects (ESP32s specifically)<br>
--Interested in: Embedded systems engineering, IoT, Hardware/Network Security<br>
+-✍️ I'm currently learning: C, Verilog, FPGA programming<br>
+-👨‍💻 Currently working on: Microcontroller projects (ESP32s specifically)<br>
+-💡 Interested in: Embedded systems engineering, IoT, Hardware/Network Security<br>
 
 Enjoy checking out my stuff, feel free to reach out if you've got any questions.
 
