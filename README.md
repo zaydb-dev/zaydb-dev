@@ -1,10 +1,10 @@
 ![Obi Wan saying Hello there](https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
 
-I'm Zayd, a Computer Systems Engineering student @ Carleton University. 
+I'm Zayd, a Computer Systems Engineering student @ Carleton University.<br>
 
--I'm currently learning: C, Verilog, FPGA programming
--Currently working on: Microcontroller projects (ESP32s specifically)
--Interested in: Embedded systems engineering, IoT, Hardware/Network Security 
+-I'm currently learning: C, Verilog, FPGA programming<br>
+-Currently working on: Microcontroller projects (ESP32s specifically)<br>
+-Interested in: Embedded systems engineering, IoT, Hardware/Network Security<br>
 
 Enjoy checking out my stuff, feel free to reach out if you've got any questions.
 
