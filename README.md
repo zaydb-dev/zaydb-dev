@@ -6,7 +6,7 @@ I'm Zayd, a second year Computer Systems Engineering student @ Carleton Universi
 -👨‍💻 Currently working on: Microcontroller projects (ESP32s specifically)<br>
 -💡 Interested in: Embedded Engineering, Python and Java OOP, C low-level memory management, Verilog, IoT, Network Security<br>
 
-Enjoy checking out my stuff, feel free to reach out if you've got any questions.
+Enjoy checking out my stuff, feel free to reach out if you've got any questions!
 
 <!--
 **zaydb-dev/zaydb-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
