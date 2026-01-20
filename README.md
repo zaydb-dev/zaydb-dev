@@ -1,4 +1,4 @@
-![Obi Wan saying Hello there](https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
+![Hello World!](https://media.tenor.com/mH_Sq3JI3jkAAAAj/helloworld-programming.gif)
 
 I'm Zayd, a second year Computer Systems Engineering student @ Carleton University.<br>
 
