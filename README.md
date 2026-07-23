@@ -4,7 +4,7 @@ I'm Zayd, a second year Computer Systems Engineering student @ Carleton Universi
 
 -✍️ I'm currently learning: IoT system development and embedded hardware design<br>
 -👨‍💻 Currently working on: Microcontroller projects (ESP32s specifically)<br>
--💡 Interested in: Embedded Engineering, Python and Java OOP, C low-level memory management, Verilog, IoT, Network Security<br>
+-💡 Interested in: Embedded Hardware Engineering, C/C++ development, IoT, Network Security<br>
 
 Enjoy checking out my stuff, feel free to reach out if you've got any questions!
 
