@@ -1,6 +1,6 @@
 ![Hello World!](https://media.tenor.com/mH_Sq3JI3jkAAAAj/helloworld-programming.gif)
 
-I'm Zayd, a second year Computer Systems Engineering student @ Carleton University.<br>
+I'm Zayd, a third year Computer Systems Engineering student @ Carleton University.<br>
 
 -✍️ I'm currently learning: IoT system development and embedded hardware design<br>
 -👨‍💻 Currently working on: Microcontroller projects (ESP32s specifically)<br>
